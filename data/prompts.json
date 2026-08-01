@@ -1,0 +1,38 @@
+[
+  {
+    "id": "talking-portrait",
+    "category": "software",
+    "categoryLabel": "💻 Software",
+    "title": "Talking Portrait",
+    "inspiredBy": "Moving portraits in Harry Potter.",
+    "buildableVersion": "A screen or web app that listens, responds in character, and reacts using voice or camera input.",
+    "safeDemoMoment": "A visitor asks the portrait for advice and receives an overdramatic response."
+  },
+  {
+    "id": "wand-interface",
+    "category": "hybrid",
+    "categoryLabel": "⚡ Software & Hardware",
+    "title": "Wand Interface",
+    "inspiredBy": "Spell casting in fantasy stories.",
+    "buildableVersion": "A gesture-controlled physical wand that triggers actions such as changing slides, switching lights, or controlling a web app.",
+    "safeDemoMoment": "A participant performs a spell gesture and the room responds."
+  },
+  {
+    "id": "web-slinger",
+    "category": "hardware",
+    "categoryLabel": "🛠️ Hardware",
+    "title": "Web-Slinger Prop",
+    "inspiredBy": "Spider-Man web shooters.",
+    "buildableVersion": "A completely non-hazardous wrist prop that uses lights, sound, or haptics instead of real projectiles.",
+    "safeDemoMoment": "A wrist gesture triggers a web animation, sound cue, or harmless light effect."
+  },
+  {
+    "id": "ai-sidekick",
+    "category": "software",
+    "categoryLabel": "💻 Software",
+    "title": "Personal AI Sidekick",
+    "inspiredBy": "Jarvis-like assistants in science fiction.",
+    "buildableVersion": "A voice or chat assistant that performs small theatrical tasks, narrates actions, or triggers simple web automations.",
+    "safeDemoMoment": "The AI gives the team a theatrical mission briefing and triggers one harmless automation."
+  }
+]
