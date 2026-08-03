@@ -125,7 +125,7 @@ The hackathon can include curated fiction prompts grounded in characters, object
 
 These prompts should not ask students to copy fictional artifacts exactly. They should translate the feeling of a fictional idea into a safe, buildable prototype.
 
-See [Fiction Prompts](fiction-prompts.md).
+See [Fiction Prompts](fiction-prompts.md) and [Real-World Examples](real-world-examples.md).
 
 ## One-Line Positioning
 
