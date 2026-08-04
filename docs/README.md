@@ -1,6 +1,6 @@
-# Fiction to Function Is a Build-First Hackathon for Making Fictional Ideas Real
+# Magic & Superpower Hackathon Is a Build-First Hackathon for Making Fictional Ideas Real
 
-Fiction to Function is a hackathon where students build prototypes inspired by magic, superheroes, sci-fi gadgets, AI sidekicks, impossible machines, enchanted objects, and fictional interfaces. The point is not to force every team to solve a serious problem. The point is to help students build confidence, learn tools, collaborate, and experience the joy of making something real.
+Magic & Superpower Hackathon is a hackathon where students build prototypes inspired by magic, superheroes, sci-fi gadgets, AI sidekicks, impossible machines, enchanted objects, and fictional interfaces. The point is not to force every team to solve a serious problem. The point is to help students build confidence, learn tools, collaborate, and experience the joy of making something real.
 
 The event should reward wonder, craft, demo quality, and learning. Usefulness is welcome, but optional. A talking painting, a harmless web-shooter, a fake Jarvis, a spell-controlled website, or an overengineered sci-fi doorbell can all be valid projects if they create a memorable build-and-demo experience.
 
@@ -16,7 +16,7 @@ Experienced builders can also join, but they should not define the event. The ce
 
 Most student hackathons push participants toward problem statements, solution pitches, market logic, and startup-style judging. That can work for experienced builders, but it often creates unnecessary pressure for beginners.
 
-Fiction to Function should remove that pressure.
+This hackathon should remove that pressure.
 
 Students should not have to prove that their idea is useful before they are allowed to build it. The intended outcome is simpler and more foundational:
 

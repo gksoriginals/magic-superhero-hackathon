@@ -1,4 +1,4 @@
-# Fiction Prompts for Fiction to Function
+# Fiction Prompts for Magic & Superpower Hackathon
 
 This document collects fiction-grounded prompts for the hackathon. Each prompt starts from a familiar fictional character, object, power, or plot device, then translates it into a safe prototype direction.
 
