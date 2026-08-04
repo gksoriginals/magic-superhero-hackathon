@@ -1,12 +1,12 @@
 # Magic & Superpower Hackathon Is a Build-First Hackathon for Making Fictional Ideas Real
 
-Magic & Superpower Hackathon is a hackathon where students build prototypes inspired by magic, superheroes, sci-fi gadgets, AI sidekicks, impossible machines, enchanted objects, and fictional interfaces. The point is not to force every team to solve a serious problem. The point is to help students build confidence, learn tools, collaborate, and experience the joy of making something real.
+Magic & Superpower Hackathon is a hackathon where early stage builders build prototypes inspired by magic, superheroes, sci-fi gadgets, AI sidekicks, impossible machines, enchanted objects, and fictional interfaces. The point is not to force every team to solve a serious problem. The point is to help early stage builders build confidence, learn tools, collaborate, and experience the joy of making something real.
 
 The event should reward wonder, craft, demo quality, and learning. Usefulness is welcome, but optional. A talking painting, a harmless web-shooter, a fake Jarvis, a spell-controlled website, or an overengineered sci-fi doorbell can all be valid projects if they create a memorable build-and-demo experience.
 
 ## Audience
 
-This hackathon is for students and early-stage builders who want to turn playful fictional ideas into working prototypes.
+This hackathon is for early-stage builders who want to turn playful fictional ideas into working prototypes.
 
 It is especially useful for people who are interested in software, hardware, AI, design, or creative technology, but do not yet have a serious problem statement, startup idea, or polished product pitch to work on.
 
@@ -14,11 +14,11 @@ Experienced builders can also join, but they should not define the event. The ce
 
 This event is designed for pure builder confidence and creative exploration. It provides a welcoming, low-pressure environment where participants can focus entirely on bringing imaginative ideas to life.
 
-Students should not have to prove that their idea is useful before they are allowed to build it. The intended outcome is simpler and more foundational:
+Early stage builders should not have to prove that their idea is useful before they are allowed to build it. The intended outcome is simpler and more foundational:
 
-> Students should leave thinking, "I can make weird ideas real."
+> Early stage builders should leave thinking, "I can make weird ideas real."
 
-That confidence matters. Once students experience the cycle of imagining, building, debugging, and demoing, they are more likely to attempt serious projects later.
+That confidence matters. Once early stage builders experience the cycle of imagining, building, debugging, and demoing, they are more likely to attempt serious projects later.
 
 ## The Theme Is Speculative Fiction, Not Only Superheroes
 
@@ -97,11 +97,11 @@ A useful safety rule:
 
 ## Principle
 
-The permission structure. Students are allowed to build playful, impractical, theatrical, or technically unnecessary things because the act of building is itself valuable.
+Early stage builders are encouraged to build playful, impractical, theatrical, or creative things because the act of building is itself valuable.
 
 That principle should stay at the center:
 
-> Students do not need to solve a serious problem in order to learn how to build.
+> Early stage builders should leave thinking, "I can make weird ideas real."
 
 ## Core Guiding Principles
 
@@ -114,7 +114,7 @@ That principle should stay at the center:
 
 The hackathon can include curated fiction prompts grounded in characters, objects, powers, scenes, and plot devices from movies, books, comics, games, and popular culture.
 
-These prompts should not ask students to copy fictional artifacts exactly. They should translate the feeling of a fictional idea into a safe, buildable prototype.
+These prompts should not ask early stage builders to copy fictional artifacts exactly. They should translate the feeling of a fictional idea into a safe, buildable prototype.
 
 See [Fiction Prompts](fiction-prompts.md) and [Real-World Examples](real-world-examples.md).
 
