@@ -8,7 +8,7 @@ This document analyzes the prompt framework from `docs/README.md` and `docs/fict
 
 ### Core Thesis Alignment
 The central principle of the **Magic & Superpower Hackathon** is permission and builder confidence:
-> *"Students do not need to solve a serious problem in order to learn how to build."*
+> *"Early stage builders should leave thinking, 'I can make weird ideas real.'"*
 
 The Magic & Superpower Hackathon prioritizes:
 1. **Wonder & Craft**: The "How did you make that?" live demo moment.
