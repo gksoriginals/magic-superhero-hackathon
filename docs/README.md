@@ -54,11 +54,8 @@ Suggested flow:
 3. Idea pitching around objects, powers, interfaces, or moments of wonder.
 4. Team formation.
 5. Build time with mentors.
-6. Midpoint demo check focused on what will be shown live.
-7. Final demo showcase.
-8. Awards for creativity, craft, demo quality, and learning.
-
-The midpoint demo check matters because the event is built around live proof. Teams should be pushed to finish something observable, even if it is small.
+6. Final demo showcase.
+7. Awards for creativity, craft, demo quality, and learning.
 
 ## Judging Should Reward Wonder Before Utility
 
