@@ -799,16 +799,23 @@ blockquote.notebook-quote {
     padding: 4px 8px;
   }
 
+  html, body {
+    scroll-snap-type: none;
+    height: auto;
+    overflow-x: hidden;
+  }
+
   .hero,
   .section {
-    min-height: 100dvh;
-    scroll-snap-align: start;
-    scroll-snap-stop: always;
+    min-height: auto;
+    height: auto;
+    scroll-snap-align: none;
+    scroll-snap-stop: normal;
     padding: 80px 20px 40px;
-    justify-content: center;
+    justify-content: flex-start;
     width: 100%;
     box-sizing: border-box;
-    overflow: hidden;
+    overflow: visible;
   }
 
   .section-grid {
@@ -830,24 +837,26 @@ blockquote.notebook-quote {
 
   .hero-portrait-wrapper {
     width: 100%;
-    max-width: 400px;
-    margin: 0 auto;
+    max-width: 320px;
+    margin: 0 auto 32px;
     display: flex;
     justify-content: center;
   }
 
   .portrait-container, .portrait-stack {
     width: 100%;
-    height: auto;
-    aspect-ratio: 1/1;
-    max-height: none;
+    height: auto !important;
+    aspect-ratio: 1/1 !important;
+    max-height: none !important;
   }
 
   .diverse-audience-img {
-    transform: scale(1) !important;
+    transform: none !important;
     object-fit: contain !important;
     width: 100% !important;
     height: auto !important;
+    aspect-ratio: auto !important;
+    margin: 24px auto 0;
   }
 
   .section-lead h2, .section h2 {
