@@ -31,6 +31,8 @@ html {
   scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
   height: 100%;
+  overflow-x: hidden;
+  max-width: 100vw;
 }
 
 /* WandaVision Dark Background */
@@ -841,6 +843,7 @@ blockquote.notebook-quote {
     margin: 0 auto 32px;
     display: flex;
     justify-content: center;
+    justify-self: center;
   }
 
   .portrait-container, .portrait-stack {
@@ -854,9 +857,12 @@ blockquote.notebook-quote {
     transform: none !important;
     object-fit: contain !important;
     width: 100% !important;
+    max-width: 400px;
     height: auto !important;
     aspect-ratio: auto !important;
     margin: 24px auto 0;
+    display: block;
+    justify-self: center;
   }
 
   .section-lead h2, .section h2 {
