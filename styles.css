@@ -351,6 +351,15 @@ h1 {
   justify-content: center;
 }
 
+.diverse-audience-img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  transform: scale(1.15);
+  filter: drop-shadow(0 0 15px rgba(226,4,4,0.15));
+}
+
 /* Quote Callout */
 blockquote.notebook-quote {
   position: relative;
@@ -816,12 +825,18 @@ blockquote.notebook-quote {
   }
 
   .hero-portrait-wrapper {
-    max-width: 220px;
+    max-width: 360px;
     margin: 0 auto;
+    width: 90vw;
   }
 
   .portrait-container {
-    height: 260px;
+    height: auto;
+    aspect-ratio: 1/1;
+  }
+
+  .diverse-audience-img {
+    transform: scale(1);
   }
 
   .section-lead h2, .section h2 {
