@@ -129,4 +129,4 @@ See [Fiction Prompts](fiction-prompts.md) and [Real-World Examples](real-world-e
 
 ## One-Line Positioning
 
-Build something from fiction and make it function.
+Build something inspired by magic or superpowers and turn it into a working prototype.
