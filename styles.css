@@ -145,11 +145,11 @@ h2, h3 {
 }
 
 .hero-grid {
-  width: min(var(--max), calc(100% - 48px));
+  width: min(var(--max), calc(100% - 32px));
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 0.7fr 1.3fr;
-  gap: 36px;
+  grid-template-columns: 0.55fr 1.45fr;
+  gap: 28px;
   align-items: center;
 }
 
@@ -220,7 +220,7 @@ h1 {
   border-color: var(--muted);
 }
 
-/* HERO PORTRAIT PERFECTLY FITTING VIEWPORT */
+/* HERO PORTRAIT PERFECTLY FITTING VIEWPORT (GIGANTIC MODE) */
 .hero-portrait-wrapper {
   position: relative;
   display: flex;
@@ -229,22 +229,38 @@ h1 {
   width: 100%;
 }
 
+.hero-portrait-wrapper::before {
+  content: '';
+  position: absolute;
+  width: 90%;
+  height: 90%;
+  background: radial-gradient(circle, rgba(226, 4, 4, 0.35) 0%, rgba(245, 158, 11, 0.2) 45%, transparent 70%);
+  filter: blur(45px);
+  z-index: 0;
+  pointer-events: none;
+  animation: auraPulse 6s ease-in-out infinite alternate;
+}
+
+@keyframes auraPulse {
+  0% { transform: scale(0.92); opacity: 0.6; }
+  100% { transform: scale(1.15); opacity: 0.95; }
+}
+
 .portrait-container {
   position: relative;
   width: 100%;
   max-width: 100%;
-  max-height: calc(90vh - 64px);
+  max-height: calc(96vh - 64px);
   cursor: pointer;
+  z-index: 1;
 }
 
 .portrait-stack {
   position: relative;
   width: 100%;
   aspect-ratio: 1 / 1;
-  max-height: calc(90vh - 64px);
-  filter: 
-    drop-shadow(0px 20px 42px rgba(15, 23, 42, 0.14))
-    drop-shadow(0px 0px 30px rgba(217, 119, 6, 0.1));
+  max-height: calc(96vh - 64px);
+  filter: none;
 }
 
 .portrait-frame-img {
