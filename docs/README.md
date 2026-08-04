@@ -12,11 +12,7 @@ It is especially useful for people who are interested in software, hardware, AI,
 
 Experienced builders can also join, but they should not define the event. The center of gravity should remain beginner-friendly: low pressure, demo-first, and open to playful experimentation.
 
-## The Main Outcome Is Builder Confidence
-
-Most student hackathons push participants toward problem statements, solution pitches, market logic, and startup-style judging. That can work for experienced builders, but it often creates unnecessary pressure for beginners.
-
-This hackathon should remove that pressure.
+This event is designed for pure builder confidence and creative exploration. It provides a welcoming, low-pressure environment where participants can focus entirely on bringing imaginative ideas to life.
 
 Students should not have to prove that their idea is useful before they are allowed to build it. The intended outcome is simpler and more foundational:
 
@@ -49,7 +45,7 @@ The practical instruction to participants can be:
 
 ## The Format Should Feel Like a Build Festival
 
-This should not feel like a conventional competitive hackathon with pitch decks and serious problem statements. It should feel closer to a high-energy build festival with a strong final demo culture.
+This event is structured as a high-energy build festival with a strong final demo culture, focusing on hands-on creation and live proof.
 
 Suggested flow:
 
@@ -107,17 +103,12 @@ That principle should stay at the center:
 
 > Students do not need to solve a serious problem in order to learn how to build.
 
-## What This Is Not
+## Core Guiding Principles
 
-This is not a startup hackathon.
-
-This is not a problem-statement hackathon.
-
-This is not only a superhero hackathon.
-
-This is not a competition where the best project is the most practical project.
-
-The hackathon can still produce useful ideas, but usefulness should not be the central requirement.
+- **Creative Freedom**: Build imaginative, fun, or theatrical prototypes without needing a commercial business case.
+- **Hands-On Execution**: Prioritize working code, physical interactions, and real proof of concept.
+- **Broad Speculative Scope**: Explore magic, sci-fi, fantasy, AI sidekicks, and futuristic interfaces.
+- **Wonder & Craft**: Focus on creating a working, delightful prototype that demonstrates wonder and craft.
 
 ## Fiction Prompts
 

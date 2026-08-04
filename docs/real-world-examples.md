@@ -10,7 +10,7 @@ This document analyzes the prompt framework from `docs/README.md` and `docs/fict
 The central principle of the **Magic & Superpower Hackathon** is permission and builder confidence:
 > *"Students do not need to solve a serious problem in order to learn how to build."*
 
-Traditional hackathons reward business model viability, market validation, and practical pitch decks. This hackathon flips this by prioritizing:
+The Magic & Superpower Hackathon prioritizes:
 1. **Wonder & Craft**: The "How did you make that?" live demo moment.
 2. **Safety as a Creative Constraint**: Translating dangerous fictional concepts (lasers, weapons, fire) into safe, sensory-rich physical proxies (lights, sensors, haptics, software interfaces).
 3. **Low-Pressure Experimentation**: Encouraging beginners to complete the full engineering loop—imagining, prototyping, debugging, and demoing—through playful ideas.
