@@ -1,8 +1,10 @@
 # Magic & Superpower Hackathon Is a Build-First Hackathon for Making Fictional Ideas Real
 
-Magic & Superpower Hackathon is a hackathon where early stage builders build prototypes inspired by magic, superheroes, sci-fi gadgets, AI sidekicks, impossible machines, enchanted objects, and fictional interfaces. The point is not to force every team to solve a serious problem. The point is to help early stage builders build confidence, learn tools, collaborate, and experience the joy of making something real.
+Magic & Superpower Hackathon helps early-stage builders turn a weird fictional idea into a safe working prototype—and leave knowing they can make imaginative ideas real. You do not need a serious problem, startup idea, or polished product pitch to join.
 
-The event should reward wonder, craft, demo quality, and learning. Usefulness is welcome, but optional. A talking painting, a harmless web-shooter, a fake Jarvis, a spell-controlled website, or an overengineered sci-fi doorbell can all be valid projects if they create a memorable build-and-demo experience.
+Bring an idea inspired by magic, superheroes, sci-fi gadgets, AI sidekicks, impossible machines, enchanted objects, or fictional interfaces. The event rewards wonder, craft, demo quality, and learning. Usefulness is welcome, but optional.
+
+A talking painting, harmless web-shooter, fake Jarvis, spell-controlled website, or overengineered sci-fi doorbell can all be valid projects if they create a memorable build-and-demo experience. Build the feeling of the fictional idea, not the dangerous part of it.
 
 ## Audience
 
@@ -12,13 +14,11 @@ It is especially useful for people who are interested in software, hardware, AI,
 
 Experienced builders can also join, but they should not define the event. The center of gravity should remain beginner-friendly: low pressure, demo-first, and open to playful experimentation.
 
-This event is designed for pure builder confidence and creative exploration. It provides a welcoming, low-pressure environment where participants can focus entirely on bringing imaginative ideas to life.
-
-Early stage builders should not have to prove that their idea is useful before they are allowed to build it. The intended outcome is simpler and more foundational:
+The event is designed for builder confidence and creative exploration. Early-stage builders should not have to prove that their idea is useful before they are allowed to build it. The intended outcome is simple:
 
 > Early stage builders should leave thinking, "I can make weird ideas real."
 
-That confidence matters. Once early stage builders experience the cycle of imagining, building, debugging, and demoing, they are more likely to attempt serious projects later.
+Participants experience the full cycle of imagining, building, debugging, and demoing in a low-pressure setting. That confidence can support more serious projects later.
 
 ## The Theme Is Speculative Fiction, Not Only Superheroes
 
@@ -92,14 +92,6 @@ A useful safety rule:
 
 > Build the feeling of the fictional idea, not the dangerous part of it.
 
-## Principle
-
-Early stage builders are encouraged to build playful, impractical, theatrical, or creative things because the act of building is itself valuable.
-
-That principle should stay at the center:
-
-> Early stage builders should leave thinking, "I can make weird ideas real."
-
 ## Core Guiding Principles
 
 - **Creative Freedom**: Build imaginative, fun, or theatrical prototypes without needing a commercial business case.
@@ -115,6 +107,6 @@ These prompts should not ask early stage builders to copy fictional artifacts ex
 
 See [Fiction Prompts](fiction-prompts.md) and [Real-World Examples](real-world-examples.md).
 
-## One-Line Positioning
+## Participant Promise
 
-Build something inspired by magic or superpowers and turn it into a working prototype.
+Bring a fictional idea, make a safe working prototype, and leave knowing you can make weird ideas real.
