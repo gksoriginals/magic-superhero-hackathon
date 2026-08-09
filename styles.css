@@ -346,6 +346,54 @@ h1 {
   margin-bottom: 0;
 }
 
+.inclusion-card {
+  background: linear-gradient(145deg, rgba(126, 34, 206, 0.18), rgba(245, 158, 11, 0.08));
+  border: 1px solid rgba(245, 158, 11, 0.32);
+  border-radius: 18px;
+  padding: 28px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.22);
+}
+
+.inclusion-badge {
+  display: inline-block;
+  margin-bottom: 14px;
+  color: #fcd34d;
+  font-family: var(--font-heading);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.inclusion-card h3 {
+  color: var(--text);
+  font-size: 26px;
+  margin-bottom: 18px;
+}
+
+.inclusion-list {
+  display: grid;
+  gap: 14px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.inclusion-list li {
+  color: var(--text-body);
+  font-size: 16px;
+  line-height: 1.55;
+  padding-left: 24px;
+  position: relative;
+}
+
+.inclusion-list li::before {
+  color: #fcd34d;
+  content: "✦";
+  left: 0;
+  position: absolute;
+}
+
 /* Side Feature Visual Elements */
 .side-feature {
   display: flex;
