@@ -15,7 +15,7 @@ A build festival works best when more people can see themselves in the ideas, pa
 
 ## Design Commitments
 
-- Make deliberate space for equal participation across genders, while welcoming trans, non-binary, and gender-diverse participants.
+- Make deliberate space for equal participation across genders.
 - Choose example prompts that offer many kinds of excitement, including adventures, transformations, mysteries, magic, collaboration, and imaginative worlds.
 - Include a wide range of fictional inspirations, and invite participants to bring characters and worlds they already love.
 - Use clear, readable instructions and explain jargon before asking beginners to build.

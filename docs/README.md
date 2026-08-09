@@ -103,7 +103,7 @@ A useful safety rule:
 
 Inclusivity and accessibility are not icing on top of the cake. They are built into the hackathon design: the invitation, example prompts, team formation, venue, tools, build process, and final demo should all make room for more people to participate.
 
-Make deliberate space for equal participation across genders, while welcoming trans, non-binary, and gender-diverse participants. The example prompts should offer a rich mix of adventures, transformations, mysteries, magic, collaboration, and imaginative worlds so more participants can find an idea that feels like theirs. Make it possible to contribute through code, hardware, design, storytelling, testing, documentation, or presentation.
+Make deliberate space for equal participation across genders. The example prompts should offer a rich mix of adventures, transformations, mysteries, magic, collaboration, and imaginative worlds so more participants can find an idea that feels like theirs. Make it possible to contribute through code, hardware, design, storytelling, testing, documentation, or presentation.
 
 Use clear instructions, accessible routes and seating, captions or written instructions, multiple ways to interact, and judging that rewards learning and collaboration as well as technical polish. See [Inclusivity and Accessibility](inclusivity-and-accessibility.md) for the commitments and expanded prompt examples.
 
