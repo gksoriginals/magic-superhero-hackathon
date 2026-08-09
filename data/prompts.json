@@ -34,5 +34,95 @@
     "inspiredBy": "Jarvis-like assistants in science fiction.",
     "buildableVersion": "A voice or chat assistant that performs small theatrical tasks, narrates actions, or triggers simple web automations.",
     "safeDemoMoment": "The AI gives the team a theatrical mission briefing and triggers one harmless automation."
+  },
+  {
+    "id": "reality-rewrite-console",
+    "category": "hybrid",
+    "categoryLabel": "⚡ Software & Hardware",
+    "title": "Reality Rewrite Console",
+    "inspiredBy": "Wanda's reality-altering powers.",
+    "buildableVersion": "An app that takes a simple scene, story, or room layout and generates safe alternate versions using text, images, sound, or projected light.",
+    "safeDemoMoment": "A participant changes one detail and the system transforms the whole scene in front of the audience."
+  },
+  {
+    "id": "suit-copilot",
+    "category": "hybrid",
+    "categoryLabel": "⚡ Software & Hardware",
+    "title": "Suit Copilot",
+    "inspiredBy": "Ironheart's self-built armor and AI assistant.",
+    "buildableVersion": "A wearable or desktop copilot that reads sensors, answers voice questions, reports system status, and suggests the next build step.",
+    "safeDemoMoment": "A participant asks the copilot for a status report and the suit responds using lights, a screen, or audio."
+  },
+  {
+    "id": "krypton-check-in",
+    "category": "software",
+    "categoryLabel": "💻 Software",
+    "title": "Krypton Check-In",
+    "inspiredBy": "Supergirl's enhanced senses and her concern for people at a distance.",
+    "buildableVersion": "An opt-in app for checking how teammates are doing through a simple status, mood, or ‘need help’ signal—without tracking location or reading private messages.",
+    "safeDemoMoment": "A team member taps a status button and the shared mission board updates with a clear, human-readable signal."
+  },
+  {
+    "id": "enhanced-senses-viewer",
+    "category": "software",
+    "categoryLabel": "💻 Software",
+    "title": "Enhanced Senses Viewer",
+    "inspiredBy": "Supergirl's enhanced vision and hearing.",
+    "buildableVersion": "A camera-and-microphone tool that magnifies, color-codes, captions, or filters ordinary environmental signals for a safe demonstration.",
+    "safeDemoMoment": "The viewer reveals a hidden color, quiet sound, or small visual detail and explains the result in text."
+  },
+  {
+    "id": "spell-command-gauntlet",
+    "category": "hybrid",
+    "categoryLabel": "⚡ Software & Hardware",
+    "title": "Spell Command Gauntlet",
+    "inspiredBy": "Wanda's energy control and gesture-based magic.",
+    "buildableVersion": "A glove, wristband, or handheld controller with an accelerometer, LED ring, and haptic motor that maps gestures to software or room effects.",
+    "safeDemoMoment": "A hand movement triggers a glowing pattern, vibration, and a harmless change on screen."
+  },
+  {
+    "id": "armor-diagnostics-kit",
+    "category": "hardware",
+    "categoryLabel": "🛠️ Hardware",
+    "title": "Armor Diagnostics Kit",
+    "inspiredBy": "Ironheart's powered armor and engineering mindset.",
+    "buildableVersion": "A safe wearable frame or backpack with temperature, light, motion, and battery sensors that displays live diagnostics on a small screen.",
+    "safeDemoMoment": "The builder moves, covers a light sensor, or warms the device slightly and the armor dashboard reacts."
+  },
+  {
+    "id": "rescue-beacon",
+    "category": "hardware",
+    "categoryLabel": "🛠️ Hardware",
+    "title": "Rescue Beacon",
+    "inspiredBy": "Cosmic heroes coordinating help across long distances.",
+    "buildableVersion": "A tabletop hardware beacon with buttons, LEDs, a buzzer, and a local wireless message that lets a team request help or announce a mission state.",
+    "safeDemoMoment": "Pressing the beacon changes the signal from ‘available’ to ‘need a hand,’ and the nearby team display responds."
+  },
+  {
+    "id": "transformation-console",
+    "category": "hybrid",
+    "categoryLabel": "⚡ Software & Hardware",
+    "title": "Transformation Console",
+    "inspiredBy": "Magical transformation sequences such as Sailor Moon's.",
+    "buildableVersion": "A personal, non-competitive transformation sequence with captions, sound controls, visual effects, and a choice of character or avatar.",
+    "safeDemoMoment": "A visitor chooses their effects and controls, then activates a short transformation sequence through sight, sound, or text."
+  },
+  {
+    "id": "princess-alliance-board",
+    "category": "software",
+    "categoryLabel": "💻 Software",
+    "title": "Princess Alliance Mission Board",
+    "inspiredBy": "Team-based magical heroes and the Princess Alliance.",
+    "buildableVersion": "A collaborative mission board where each teammate chooses a role—builder, storyteller, tester, designer, researcher, or presenter.",
+    "safeDemoMoment": "The board shows how different contributions combine to complete one shared quest."
+  },
+  {
+    "id": "enchanted-garden",
+    "category": "hybrid",
+    "categoryLabel": "⚡ Software & Hardware",
+    "title": "Enchanted Garden Caretaker",
+    "inspiredBy": "Magical gardens and nature-centered fantasy stories.",
+    "buildableVersion": "A garden installation that responds to gentle touch, keyboard input, or voice and gives every visitor a different low-pressure creative challenge.",
+    "safeDemoMoment": "Two visitors use different input methods and both help the garden bloom."
   }
 ]
