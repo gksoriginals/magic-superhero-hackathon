@@ -80,6 +80,66 @@ Buildable version: A phone, webcam, accelerometer, or wearable sensor that maps 
 
 Safe demo moment: A pose or movement triggers a visible "power" effect.
 
+## Women Superheroes and Magic Characters
+
+These prompts widen the starting points so teams can explore courage, transformation, collaboration, imagination, and wonder—not only combat or male-coded superhero gadgets.
+
+### Truth Constellation
+
+Inspired by: Wonder Woman's truth and justice mythology.
+
+Buildable version: A consent-based question-and-answer installation that turns answers into a visual constellation. Let participants answer by voice, text, or buttons.
+
+Safe demo moment: A visitor chooses a question, gives an answer, and watches a new star appear without any personal answer being stored.
+
+### Stretchy Interface
+
+Inspired by: Ms. Marvel's shape-shifting, elastic powers.
+
+Buildable version: A playful interface that expands, rearranges, and adapts when a user changes screen size, input method, or accessibility preference.
+
+Safe demo moment: The same interface transforms smoothly between keyboard, touch, and large-display modes.
+
+### Cosmic Navigator
+
+Inspired by: Captain Marvel's cosmic adventures.
+
+Buildable version: A voice-friendly star map with keyboard controls and large touch targets that lets a team explore fictional destinations.
+
+Safe demo moment: A participant selects a destination in the way that works for them and the map launches a narrated mission.
+
+### Reverse Spellbook
+
+Inspired by: Zatanna's backwards spellcasting.
+
+Buildable version: A spellbook that transforms words typed forwards or backwards into lights, sounds, animations, or a small digital action.
+
+Safe demo moment: A participant types a harmless command, the spellbook reveals its transformed form, and the room responds.
+
+### Transformation Console
+
+Inspired by: Magical transformation sequences such as Sailor Moon's.
+
+Buildable version: A personal, non-competitive transformation sequence with captions, sound controls, visual effects, and a choice of character or avatar.
+
+Safe demo moment: A visitor chooses their effects and controls, then activates a short transformation sequence they can experience through sight, sound, or text.
+
+### Princess Alliance Mission Board
+
+Inspired by: Team-based magical heroes and the Princess Alliance.
+
+Buildable version: A collaborative mission board where each teammate can choose a role—builder, storyteller, tester, designer, researcher, or presenter—and contribute synchronously or asynchronously.
+
+Safe demo moment: The board shows how different contributions combine to complete one shared quest.
+
+### Enchanted Garden Caretaker
+
+Inspired by: Magical gardens and nature-centered fantasy stories.
+
+Buildable version: A garden installation that responds to gentle touch, keyboard input, or voice and gives every visitor a different low-pressure creative challenge.
+
+Safe demo moment: Two visitors use different input methods and both help the garden bloom.
+
 ## Science Fiction and AI
 
 ### Personal AI Sidekick

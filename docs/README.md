@@ -99,6 +99,14 @@ A useful safety rule:
 - **Broad Speculative Scope**: Explore magic, sci-fi, fantasy, AI sidekicks, and futuristic interfaces.
 - **Wonder & Craft**: Focus on creating a working, delightful prototype that demonstrates wonder and craft.
 
+## Inclusivity and Accessibility
+
+Inclusivity and accessibility are not icing on top of the cake. They are built into the hackathon design: the invitation, example prompts, team formation, venue, tools, build process, and final demo should all make room for more people to participate.
+
+Make deliberate space for equal participation by boys and girls, while welcoming trans, non-binary, and gender-diverse participants. The example prompts should cover ideas that excite people across genders, not only combat, armor, weapons, or male-coded superhero stories. Include women superheroes and magic characters, and make it possible to contribute through code, hardware, design, storytelling, testing, documentation, or presentation.
+
+Use clear instructions, accessible routes and seating, captions or written instructions, multiple ways to interact, and judging that rewards learning and collaboration as well as technical polish. See [Inclusivity and Accessibility](inclusivity-and-accessibility.md) for the commitments and expanded prompt examples.
+
 ## Fiction Prompts
 
 The hackathon can include curated fiction prompts grounded in characters, objects, powers, scenes, and plot devices from movies, books, comics, games, and popular culture.
