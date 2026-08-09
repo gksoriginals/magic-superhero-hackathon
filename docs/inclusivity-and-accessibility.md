@@ -17,7 +17,7 @@ A build festival works best when more people can see themselves in the ideas, pa
 
 - Make deliberate space for equal participation across genders, while welcoming trans, non-binary, and gender-diverse participants.
 - Choose example prompts that offer many kinds of excitement, including adventures, transformations, mysteries, magic, collaboration, and imaginative worlds.
-- Include women superheroes and magic characters alongside other fictional inspirations, and invite participants to bring characters and worlds they already love.
+- Include a wide range of fictional inspirations, and invite participants to bring characters and worlds they already love.
 - Use clear, readable instructions and explain jargon before asking beginners to build.
 - Make participation possible through speech, typing, drawing, movement, or a quiet hands-on role; no single body, voice, or confidence style should be required.
 - Provide accessible routes, seating, power, and rest areas, and ask participants privately what accommodations would help them take part.

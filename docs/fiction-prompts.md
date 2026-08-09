@@ -80,7 +80,7 @@ Buildable version: A phone, webcam, accelerometer, or wearable sensor that maps 
 
 Safe demo moment: A pose or movement triggers a visible "power" effect.
 
-## Women Superheroes and Magic Characters
+## More Worlds and Powers
 
 These prompts widen the starting points so teams can explore courage, transformation, collaboration, imagination, and wonder through many kinds of fictional worlds.
 
