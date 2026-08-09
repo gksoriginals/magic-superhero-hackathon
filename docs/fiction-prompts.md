@@ -82,63 +82,63 @@ Safe demo moment: A pose or movement triggers a visible "power" effect.
 
 ## More Worlds and Powers
 
-These prompts widen the starting points so teams can explore courage, transformation, collaboration, imagination, and wonder through many kinds of fictional worlds.
+These prompts widen the starting points with concrete capabilities: changing reality, building intelligent tools, sensing the world, checking in with people, and creating responsive hardware.
 
-### Truth Constellation
+### Reality Rewrite Console
 
-Inspired by: Wonder Woman's truth and justice mythology.
+Inspired by: Wanda's reality-altering powers.
 
-Buildable version: A consent-based question-and-answer installation that turns answers into a visual constellation. Let participants answer by voice, text, or buttons.
+Buildable version: An app that takes a simple scene, story, or room layout and generates several safe alternate versions using text, images, sound, or projected light.
 
-Safe demo moment: A visitor chooses a question, gives an answer, and watches a new star appear without any personal answer being stored.
+Safe demo moment: A participant changes one detail and the system transforms the whole scene in front of the audience.
 
-### Stretchy Interface
+### Suit Copilot
 
-Inspired by: Ms. Marvel's shape-shifting, elastic powers.
+Inspired by: Ironheart's self-built armor and AI assistant.
 
-Buildable version: A playful interface that expands, rearranges, and adapts when a user changes screen size, input method, or accessibility preference.
+Buildable version: A wearable or desktop copilot that reads sensors, answers voice questions, reports system status, and suggests the next build step.
 
-Safe demo moment: The same interface transforms smoothly between keyboard, touch, and large-display modes.
+Safe demo moment: A participant asks the copilot for a status report and the suit responds using lights, a screen, or audio.
 
-### Cosmic Navigator
+### Krypton Check-In
 
-Inspired by: Captain Marvel's cosmic adventures.
+Inspired by: Supergirl's enhanced senses and her concern for people at a distance.
 
-Buildable version: A voice-friendly star map with keyboard controls and large touch targets that lets a team explore fictional destinations.
+Buildable version: An opt-in app for checking how teammates are doing through a simple status, mood, or “need help” signal—without tracking location or reading private messages.
 
-Safe demo moment: A participant selects a destination in the way that works for them and the map launches a narrated mission.
+Safe demo moment: A team member taps a status button and the shared mission board updates with a clear, human-readable signal.
 
-### Reverse Spellbook
+### Enhanced Senses Viewer
 
-Inspired by: Zatanna's backwards spellcasting.
+Inspired by: Supergirl's enhanced vision and hearing.
 
-Buildable version: A spellbook that transforms words typed forwards or backwards into lights, sounds, animations, or a small digital action.
+Buildable version: A camera-and-microphone tool that magnifies, color-codes, captions, or filters ordinary environmental signals for a safe demonstration.
 
-Safe demo moment: A participant types a harmless command, the spellbook reveals its transformed form, and the room responds.
+Safe demo moment: The viewer reveals a hidden color, quiet sound, or small visual detail and explains the result in text.
 
-### Transformation Console
+### Spell Command Gauntlet
 
-Inspired by: Magical transformation sequences such as Sailor Moon's.
+Inspired by: Wanda's energy control and gesture-based magic.
 
-Buildable version: A personal, non-competitive transformation sequence with captions, sound controls, visual effects, and a choice of character or avatar.
+Buildable version: A glove, wristband, or handheld controller with an accelerometer, LED ring, and haptic motor that maps gestures to software or room effects.
 
-Safe demo moment: A visitor chooses their effects and controls, then activates a short transformation sequence they can experience through sight, sound, or text.
+Safe demo moment: A hand movement triggers a glowing pattern, vibration, and a harmless change on screen.
 
-### Princess Alliance Mission Board
+### Armor Diagnostics Kit
 
-Inspired by: Team-based magical heroes and the Princess Alliance.
+Inspired by: Ironheart's powered armor and engineering mindset.
 
-Buildable version: A collaborative mission board where each teammate can choose a role—builder, storyteller, tester, designer, researcher, or presenter—and contribute synchronously or asynchronously.
+Buildable version: A safe wearable frame or backpack with temperature, light, motion, and battery sensors that displays live diagnostics on a small screen.
 
-Safe demo moment: The board shows how different contributions combine to complete one shared quest.
+Safe demo moment: The builder moves, covers a light sensor, or warms the device slightly and the armor dashboard reacts.
 
-### Enchanted Garden Caretaker
+### Rescue Beacon
 
-Inspired by: Magical gardens and nature-centered fantasy stories.
+Inspired by: Cosmic heroes coordinating help across long distances.
 
-Buildable version: A garden installation that responds to gentle touch, keyboard input, or voice and gives every visitor a different low-pressure creative challenge.
+Buildable version: A tabletop hardware beacon with buttons, LEDs, a buzzer, and a local wireless message that lets a team request help or announce a mission state.
 
-Safe demo moment: Two visitors use different input methods and both help the garden bloom.
+Safe demo moment: Pressing the beacon changes the signal from “available” to “need a hand,” and the nearby team display responds.
 
 ## Science Fiction and AI
 
